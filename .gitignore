@@ -1,2 +1,6 @@
 .DS_Store
 README.MD
+.project
+.classpath
+.metadata/
+/MyBot.class
